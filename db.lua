@@ -15,6 +15,8 @@ addon.db = {
 		211805, -- Gleaming Transmutagen
 		210815, -- Coreway Catalyst
 		210828, -- Dilution Solution
+		-- Other
+		212754, -- Crystalforged Cauldron
 	},
 	["Blacksmithing"] = {
 		226202, -- Echoing Flux
@@ -180,7 +182,7 @@ addon.db = {
 		222255, -- Twined Herbs
 		222539, -- Whispering Stargazer
 		222102, -- Whispering Stargazer
-
+		222738, -- Portioned Steak
 		223512, -- Basically Beef
 		225567, -- Bug Brisket
 		225564, -- Meaty Muscle
@@ -420,7 +422,6 @@ addon.db = {
 		217707, -- Imperfect Null Stone
 	},
 	["Reagents"] = {
-		212754, -- Crystalforged Cauldron
 		221756, -- Vial of Kaheti Oils
 		221763, -- Viridian Charmcap
 		224764, -- Mosswool Thread
