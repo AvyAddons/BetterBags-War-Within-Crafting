@@ -328,6 +328,16 @@ addon.db = {
 		222555, -- Codified Greenwood
 		222556, -- Codified Greenwood
 		222557, -- Codified Greenwood
+		-- Cards
+		222681, -- Ace of Ascension
+		222682, -- Two of Ascension
+		222683, -- Three of Ascension
+		222684, -- Four of Ascension
+		222685, -- Five of Ascension
+		222686, -- Six of Ascension
+		222687, -- Seven of Ascension
+		222688, -- Eight of Ascension
+		222622, -- Transcribe to Ascension
 	},
 	["Jewelcrafting"] = {
 		213398, -- Handful of Pebbles
