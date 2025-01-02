@@ -337,7 +337,14 @@ addon.db = {
 		222686, -- Six of Ascension
 		222687, -- Seven of Ascension
 		222688, -- Eight of Ascension
-		222622, -- Transcribe to Ascension
+		222654, -- Ace of Symbiosis
+		222655, -- Two of Symbiosis
+		222656, -- Three of Symbiosis
+		222657, -- Four of Symbiosis
+		222658, -- Five of Symbiosis
+		222659, -- Six of Symbiosis
+		222660, -- Seven of Symbiosis
+		222661, -- Eight of Symbiosis
 	},
 	["Jewelcrafting"] = {
 		213398, -- Handful of Pebbles
