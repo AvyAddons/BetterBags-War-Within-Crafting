@@ -345,6 +345,14 @@ addon.db = {
 		222659, -- Six of Symbiosis
 		222660, -- Seven of Symbiosis
 		222661, -- Eight of Symbiosis
+		222672, -- Ace of Vivacity
+		222673, -- Two of Vivacity
+		222674, -- Three of Vivacity
+		222675, -- Four of Vivacity
+		222676, -- Five of Vivacity
+		222677, -- Six of Vivacity
+		222678, -- Seven of Vivacity
+		222679, -- Eight of Vivacity
 	},
 	["Jewelcrafting"] = {
 		213398, -- Handful of Pebbles
