@@ -353,6 +353,14 @@ addon.db = {
 		222677, -- Six of Vivacity
 		222678, -- Seven of Vivacity
 		222679, -- Eight of Vivacity
+		222663, -- Ace of Radiance
+		222664, -- Two of Radiance
+		222665, -- Three of Radiance
+		222666, -- Four of Radiance
+		222667, -- Five of Radiance
+		222668, -- Six of Radiance
+		222669, -- Seven of Radiance
+		222670, -- Eight of Radiance
 	},
 	["Jewelcrafting"] = {
 		213398, -- Handful of Pebbles
